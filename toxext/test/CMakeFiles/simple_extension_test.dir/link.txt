@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/simple_extension_test.dir/simple_extension_test.c.o  -o simple_extension_test -fsanitize=address ../mock/libtoxext_mock.a 

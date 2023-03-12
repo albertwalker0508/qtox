@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/mismatched_extension_ids.dir/mismatched_extension_ids.c.o  -o mismatched_extension_ids -fsanitize=address ../mock/libtoxext_mock.a 

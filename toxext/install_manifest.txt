@@ -1,0 +1,5 @@
+/usr/local/lib/cmake/ToxExt/ToxExtConfig.cmake
+/usr/local/lib/cmake/ToxExt/ToxExtConfig-noconfig.cmake
+/usr/local/lib/libtoxext.a
+/usr/local/include/toxext/toxext.h
+/usr/local/include/toxext/toxext_util.h

@@ -1,0 +1,7 @@
+/home/dev/qToxProject/tox_extension_messages/CMakeFiles/install/strip.dir
+/home/dev/qToxProject/tox_extension_messages/CMakeFiles/edit_cache.dir
+/home/dev/qToxProject/tox_extension_messages/CMakeFiles/list_install_components.dir
+/home/dev/qToxProject/tox_extension_messages/CMakeFiles/install/local.dir
+/home/dev/qToxProject/tox_extension_messages/CMakeFiles/ToxExtensionMessages.dir
+/home/dev/qToxProject/tox_extension_messages/CMakeFiles/rebuild_cache.dir
+/home/dev/qToxProject/tox_extension_messages/CMakeFiles/install.dir

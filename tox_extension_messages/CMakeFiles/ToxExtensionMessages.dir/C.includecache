@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dev/qToxProject/tox_extension_messages/tox_extension_messages.c
+tox_extension_messages.h
+/home/dev/qToxProject/tox_extension_messages/tox_extension_messages.h
+toxext/toxext.h
+-
+toxext/toxext_util.h
+-
+assert.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/dev/qToxProject/tox_extension_messages/tox_extension_messages.h
+toxext/toxext.h
+-
+
+/usr/local/include/tox/tox.h
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+
+/usr/local/include/toxext/toxext.h
+tox/tox.h
+-
+stddef.h
+-
+stdbool.h
+-
+stdint.h
+-
+
+/usr/local/include/toxext/toxext_util.h
+

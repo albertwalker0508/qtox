@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/peer_no_extension.dir/peer_no_extension.c.o  -o peer_no_extension -fsanitize=address ../mock/libtoxext_mock.a 

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dev/qToxProject/toxext/test/deferred_packets.c
+mock_fixtures.h
+/home/dev/qToxProject/toxext/test/mock_fixtures.h
+toxext.h
+/home/dev/qToxProject/toxext/test/toxext.h
+mock_tox.h
+/home/dev/qToxProject/toxext/test/mock_tox.h
+assert.h
+/home/dev/qToxProject/toxext/test/assert.h
+
+/usr/local/include/tox/tox.h
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+
+mock/mock_fixtures.h
+tox/tox.h
+-
+toxext.h
+mock/toxext.h
+
+mock/mock_tox.h
+tox/tox.h
+-
+
+src/toxext.h
+tox/tox.h
+-
+stddef.h
+-
+stdbool.h
+-
+stdint.h
+-
+
